@@ -1,0 +1,21 @@
+.tShirt {
+    border: 1px solid lightgreen;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.tShirt img {
+    height: 250px;
+    border-radius: 15px;
+}
+
+.buy-btn {
+    background: tomato;
+    padding: 4px;
+}
+
+.buy-btn:hover {
+    background: goldenrod;
+    width: 50%;
+
+}
